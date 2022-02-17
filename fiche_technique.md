@@ -18,7 +18,7 @@ Visité le 10 février 2022
 
 **Explications sur la mise en espace:**
 
-L'oeuvre est placée à un endroit très ouvert ce qui la rend difficile à manquer. Un éclairage simple composé d'un seul projecteur pointé vers l'oeuvre semble suffir. Puisque l'oeuvre est excessivement compliquée, l'artiste a probablement fait l'installation lui même, pour éviter les erreurs. D'aprês la complexité de l'oeuvre, il doit prendre plusieurs heures à installer à cause des multiples tuyaux pneumatiques, pistons et composant électroniques à installer. 
+L'oeuvre est placée à un endroit très ouvert ce qui la rend difficile à manquer. Un éclairage simple composé de deux projecteurs pointés vers l'oeuvre semble suffir. Puisque l'oeuvre est excessivement compliquée, l'artiste a probablement fait l'installation lui même, pour éviter les erreurs. D'aprês la complexité de l'oeuvre, il doit prendre plusieurs heures à installer à cause des multiples tuyaux pneumatiques, pistons et composant électroniques à installer. 
 
 **Liste des composantes et techniques de l'oeuvre:**
 
@@ -36,5 +36,9 @@ L'oeuvre est placée à un endroit très ouvert ce qui la rend difficile à manq
 
 
 **Liste des éléments pour la mise en exposition** (crochets, sac de sable, câbles de soutien...)
+
+-Projecteurs pointés sur l'oeuvre
+
+
 
 Expérience vécue
