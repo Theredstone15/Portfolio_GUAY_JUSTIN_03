@@ -14,7 +14,7 @@ Visité le 10 février 2022
 **Description de l'oeuvre:**
 *Les châteaux de sable* est une installation conçue spécifiquement pour un petit espacede bureau situé au sommet d'un gratte-ciel du centre ville de Toronto. L'installation peut être décrite comme une chaîne de montage qui crée des châteaux de sable, les expédie dans un voyage sur un tapis et précipite fatalement leur destruction. Le sable est alors récupéré, recyclé et un nouveau château est créé. le cycle est activé par la position de la lune dans le ciel, qui influence les marées terrestres. (Description directement tirée de l'exposition)
 
-<img src="medias/Les_châteaux_de_sable.jpg" style="width: 400px;"></img>
+<img src="medias/Les_châteaux_de_sable.jpg" style="width: 500px;"></img>
 
 **Explications sur la mise en espace:**
 
