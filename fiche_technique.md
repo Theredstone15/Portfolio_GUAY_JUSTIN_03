@@ -34,11 +34,13 @@ L'oeuvre est placée à un endroit très ouvert ce qui la rend difficile à manq
 
 -Panneau de contrôle pneumatique: Contrôle la pression dans le réservoir à air et contrôle tous les pistons et éléments pneumatiques dans l'oeuvre.
 
+<img src="medias/Machine.jpg" style="width: 500px;"></img>
 
 **Liste des éléments pour la mise en exposition** (crochets, sac de sable, câbles de soutien...)
 
 -Projecteurs pointés sur l'oeuvre
 
 
-
 Expérience vécue
+
+L'oeuvre est très intéressante puisque, à moins de la déclencher à la main, elle ne se déclenche qu'à certains moments de la journée à cause de la position de la lune. Elle est composée de multiples pièces d'électronique avancée tels des contrôleurs pneumatiques et pistons, ce qui permet de comprendre beaucoup plus comment l'oeuvre est composée et c'est quelque chose de très intéressant pour moi, puisque j'ai tendance à me demander comment tout fonctionne.
