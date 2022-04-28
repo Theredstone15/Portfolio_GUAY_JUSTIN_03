@@ -21,4 +21,20 @@ L'oeuvre se trouve sur un mur qui fait le long d'un corridor à la Place des Art
 
 ## Liste des composantes et techniques de l'oeuvre
 
-- 
+- 35 écrans: ils sont connectés en ensemble pour former un seul écran de la longueur du corridor
+
+- Haut parleurs: Ils diffusent la musique et les sons des animations qui jouent sur la murale.
+
+- Tubes en plastique transparent: Semble contenir des bandes lumineuses DEL connectés au réseau d'écrans pous compléter l'animation.
+
+## Liste des éléments pour la mise en exposition (crochets, sac de sable, câbles de soutien...)
+
+- Supports pour écrans
+
+- Clôture pour éviter les visiteurs d'y toucher
+
+- Projecteurs proche des écrans pour une lumière douce
+
+## Expérience vécue
+
+L'oeuvre est très intéressante pour sa conception, tout comme pour les animations qui y jouent. L'agencement des tubes et des écrans est très bien concu, de facon à ce que les tubes complètent bien les animations avec les écrans adjacents. 
