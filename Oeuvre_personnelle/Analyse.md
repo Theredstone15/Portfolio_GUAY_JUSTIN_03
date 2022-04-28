@@ -17,4 +17,8 @@ La murale de la Place des Arts est composée de 35 écrans accompagés de plusie
 
 ## Explications sur la mise en espace
 
-L'oeuvre se trouve sur un mur qui fait le long d'un corridor à la Place des Arts. Le corridor est relativement sombre et l'éclairage est dirigé vers les écrans. Des haut-parleurs sont installés près des écrans pour diffuser l'audio des animations. 35 écrans sont installés de facon à créer une grande mozaïque.
+L'oeuvre se trouve sur un mur qui fait le long d'un corridor à la Place des Arts. Le corridor est relativement sombre et l'éclairage est dirigé vers les écrans. Des haut-parleurs sont installés près des écrans pour diffuser l'audio des animations de facon à ce qu'on doive s'approcher relativement proche des écrans. 35 écrans sont installés de facon à créer une grande mozaïque.
+
+## Liste des composantes et techniques de l'oeuvre
+
+- 
