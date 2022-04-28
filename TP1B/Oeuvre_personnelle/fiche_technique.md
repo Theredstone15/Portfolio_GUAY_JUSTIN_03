@@ -37,4 +37,4 @@ L'oeuvre se trouve sur un mur qui fait le long d'un corridor à la Place des Art
 
 ## Expérience vécue
 
-L'oeuvre est très intéressante pour sa conception, tout comme pour les animations qui y jouent. L'agencement des tubes et des écrans est très bien concu, de facon à ce que les tubes complètent bien les animations avec les écrans adjacents. 
+L'oeuvre est très intéressante pour sa conception, tout comme pour les animations qui y jouent. L'agencement des tubes et des écrans est très bien concu, de facon à ce que les tubes complètent bien les animations avec les écrans adjacents. Les animations qui y jouent sont concus pour fonctionner avec la mozaïque et sont faits par de multiples artistes différents. Il est un peu dommage cependant, que ce n'est pas une liste d'animations qui jouent, mais c'est plutôt une seule oeuvre qui joue pendant une certaine période de temps. Ca ruine un peu le potentiel de l'oeuvre.
