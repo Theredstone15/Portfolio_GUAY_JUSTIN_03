@@ -32,6 +32,8 @@ L'oeuvre est composée de trois parties qui ont pratiquement la même fonction, 
 - Power supply pour fournir l'oeuvre en électricité
 - Contrôleur de moteurs pour faire fontionner les moteurs correctement
 
+<img src="media/Bechard6.jpg" style="width: 400px;"></img>
+
 ## Liste des éléments pour la mise en exposition (crochets, sac de sable, câbles de soutien...)
 
 - Câdre en métal pour tenir l'oeuvre loin du mur
